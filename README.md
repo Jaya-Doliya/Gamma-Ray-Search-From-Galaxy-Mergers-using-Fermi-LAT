@@ -1,1 +1,1 @@
-# Gamma-Ray-Seatch-From-Galaxy-Mergers-using-Fermi-LAT-Data
+# Gamma-Ray-Search-From-Galaxy-Mergers-using-Fermi-LAT-Data
