@@ -4,13 +4,13 @@
 
 **Galaxy merger sample file.csv** – This file contains the list of galaxy mergers (with RA/Dec coordinates) included in our Fermi-LAT gamma-ray analysis. The galaxy mergers were collected from the following eight catalogs: 
 
+- Hwang 2009 Catalog ([link](https://cdsarc.cds.unistra.fr/viz-bin/cat/J/ApJS/181/233))
+- Close galaxy pairs ([link](https://cdsarc.cds.unistra.fr/viz-bin/cat/J/AJ/130/2043))
+- DND galaxies ([link](https://cdsarc.u-strasbg.fr/viz-bin/Cat?J/AJ/128/62))
 - UNION Catalog ([link](https://arxiv.org/abs/2407.18396))
-- Hwang 2009 Catalog ([link](https://ui.adsabs.harvard.edu/abs/2009yCat..21810233H/abstract))
 - GOTHIC Catalog ([link](https://arxiv.org/abs/2011.12177))
-- HST Catalog ([link](https://iopscience.iop.org/article/10.1086/491672))
-- DND galaxies ([link](https://iopscience.iop.org/article/10.1086/421371))
-- Merging Galaxies in the SDSS EDR ([link](https://iopscience.iop.org/article/10.1086/381954))
-- GZoo Catalog ([link](https://arxiv.org/abs/1805.10289))
-- Progenitors of massive mergers ([link](https://arxiv.org/abs/0710.2157))
+- Merging Galaxies in the SDSS EDR ([link](https://cdsarc.cds.unistra.fr/viz-bin/cat/J/AJ/127/1883))
+- GZoo Catalog ([link](https://cdsarc.cds.unistra.fr/viz-bin/cat/J/MNRAS/479/415))
+- Progenitors of massive mergers ([link](https://cdsarc.cds.unistra.fr/viz-bin/cat/J/MNRAS/388/1537))
 
 **Preprocessing Summary.txt** – This file summarizes the results obtained from the single-source analysis of the selected 1,875 galaxy mergers in this work.
